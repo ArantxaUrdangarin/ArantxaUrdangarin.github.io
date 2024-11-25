@@ -183,7 +183,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["pages_new"]
+include: ["pages"]
 exclude:
   - _pages/publications.md
   - bin/
