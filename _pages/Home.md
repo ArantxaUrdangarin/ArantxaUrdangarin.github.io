@@ -1,7 +1,7 @@
 ---
 layout: Home
 title: Home
-permalink: /
+permalink: /Home/
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
