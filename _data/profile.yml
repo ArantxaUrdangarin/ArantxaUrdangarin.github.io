@@ -8,15 +8,16 @@ positions:
 - name: Position 2 without logo
 
 
-email: "aurdang@ncsu.edu"
+email: aurdang@ncsu.edu
 # cv_link: link-to-your-cv-file
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+orcid: 0000-0002-9101-6459
 github: ArantxaUrdangarin
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 linkedin: arantxaurdangarin
-orcid: 0000-0002-9101-6459
+
 
 short_bio_text_justify: false
 short_bio: >-
@@ -33,17 +34,17 @@ portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
-education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+# education:
+# - name: Massachusetts Institute of Technology
+#  logo: /assets/images/badges/MIT_Social_circle.png
+#  position: >- 
+#    Department of Electrical Engineering and Computer Science <br/>
+#    Ph.D. Student
+#  date: Sep. 2024 - present
+# - name: Peking University
+#  logo: /assets/images/badges/PKU_red.png
+#  position: B.S. in Computer Science
+#  date: Sep. 2019 - Jul. 2021
 
 # experience:
 # - name: Peking University
@@ -51,10 +52,10 @@ education:
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: Award Name 2
+#  date: 2024
+# - name: Award Name 1 
+#  date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#  date: 2021
