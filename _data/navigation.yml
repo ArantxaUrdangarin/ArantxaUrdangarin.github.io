@@ -6,6 +6,6 @@ pages:
 - name: Publications
   url: /publications
 - name: Talks
-- url:/talks
+  url: /talks
 - name: Showcase
   url: /showcase
