@@ -1,21 +1,20 @@
 ---
-title:          "A simplified spatial+ approach to mitigate spatial confounding in multivariate spatial areal models"
-date:           2024-03-1 00:01:00 +0800
+title:          "Evaluating recent methods to overcome spatial confounding"
+date:           2022-12-1 00:01:00 +0800
 selected:       false
-pub:            "Spatial statistics"
+pub:            "Revista Matemática Complutense"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2024"
+pub_date:       "2022"
 # cover:          /assets/images/covers/cover3.jpg
 authors:
   - Arantxa Urdangarin
   - Tomás Goicoa
-  - Thomas Kneib
   - María Dolores Ugarte
 links:
-  Paper: https://doi.org/10.1016/j.spasta.2023.100804
-  Code: https://github.com/spatialstatisticsupna/Multivariate_confounding
+  Paper: https://doi.org/10.1007/s13163-022-00449-8
+  Code: https://github.com/spatialstatisticsupna/REMC_confounding_article
 ---
 
 
