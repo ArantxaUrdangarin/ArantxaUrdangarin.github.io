@@ -6,6 +6,8 @@ navbar_title: Publications
 #  data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
+<h2>Ongi etorri to Showcase!</h2>
+
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
 <div class="row">
