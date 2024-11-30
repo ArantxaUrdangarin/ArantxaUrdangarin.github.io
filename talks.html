@@ -8,7 +8,7 @@ navbar_title: Talks
 
 <h2>Talks</h2>
 
-{% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
+{% assign pubs_by_year = site.talks | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
 <div class="row">
     <div class="col-10 col-lg-10">
