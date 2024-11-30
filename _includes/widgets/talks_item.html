@@ -4,10 +4,6 @@
       <div class="col-md-0 col-xl-10 p-3 pl-md-4 mr-0">
             <h5 class="mt-0 mb-1 mr=0 font-weight-normal normal">{{ item.title }}</h5>
             <p class="mt-0 mb-0 medium">{% include widgets/author_list.html authors=item.authors %}</p>
-            <p class="mt-0 mb-0 medium">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
-            <p class="mt-0 mb-0 medium">{{ item.abstract }}</p>
-          
-            
             <p class="medium pb-0 mb-0 lh-125 text-muted abstract-links">
                 {% for link in item.links %}
                 {% if link[1].url %}
@@ -17,6 +13,9 @@
                 {% endif %}
                 {% endfor %}
             </p>
+            <p class="mt-0 mb-0 medium">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
+            <p class="mt-0 mb-0 medium">{{ item.abstract }}</p>
+
 
         </div>
     </div>
@@ -29,10 +28,6 @@
             <div>
                 <h5 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h5>
                 <p class="mt-0 mb-0 medium">{% include widgets/author_list.html authors=item.authors %}</p>
-                <p class="mt-0 mb-0 medium">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
-                <p class="mt-0 mb-0 medium text-muted">{{ item.abstract }}</p>
-                
-                
                 <p class="medium pb-0 mb-0 lh-125 text-muted abstract-links">
                     {% for link in item.links %}
                     {% if link[1].url %}
@@ -42,6 +37,11 @@
                     {% endif %}
                     {% endfor %}
                 </p>
+                <p class="mt-0 mb-0 medium">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
+                <p class="mt-0 mb-0 medium text-muted">{{ item.abstract }}</p>
+                
+                
+                
             </div>
         </div>
     </div>
