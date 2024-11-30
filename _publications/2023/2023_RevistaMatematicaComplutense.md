@@ -1,6 +1,6 @@
 ---
 title:          "Evaluating recent methods to overcome spatial confounding"
-date:           2023-1-1 00:01:00 +0800
+date:           2023-1-3 00:01:00 +0800
 selected:       false
 pub:            "Revista Matemática Complutense"
 # pub_pre:        "Submitted to "
