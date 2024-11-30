@@ -15,6 +15,7 @@ authors:
   - María Dolores Ugarte
 links:
   Code: https://github.com/spatialstatisticsupna/Multivariate_confounding
+  Paper: https://doi.org/10.1016/j.spasta.2023.100804
 ---
 
 
