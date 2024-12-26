@@ -2,10 +2,14 @@
 title:          "Comparing Inla and Nimble to fit spatio-temporal models for count data"
 date:           2022-5-25 00:01:00 +0800
 selected:       false
-pub:            "XVIII Biometrics Conference (CEBMADRID)"
+#pub:  
+links:
+  "XVIII Biometrics Conference (CEBMADRID)":https://halweb.uc3m.es/cebmadrid/index.html  
 abstract: May 25-27, Madrid
 authors:
   - Arantxa Urdangarin
   - Tomás Goicoa
   - María Dolores Ugarte
 ---
+
+
