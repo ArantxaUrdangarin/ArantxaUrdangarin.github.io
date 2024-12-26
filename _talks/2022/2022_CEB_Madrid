@@ -4,7 +4,7 @@ date:           2022-5-25 00:01:00 +0800
 selected:       false
 #pub:  
 links:
-  "XVIII Biometrics Conference (CEBMADRID)":https://halweb.uc3m.es/cebmadrid/index.html  
+  "XVIII Biometrics Conference (CEBMADRID)": https://halweb.uc3m.es/cebmadrid/index.html  
 abstract: May 25-27, Madrid
 authors:
   - Arantxa Urdangarin
