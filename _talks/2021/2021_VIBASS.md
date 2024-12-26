@@ -1,0 +1,15 @@
+---
+title:          "Assessing recent methods to alleviate confounding in spatial disease mapping"
+date:           2022-8-30 00:01:00 +0800
+selected:       false
+#pub:  
+links:
+  "XL Annual Meeting of the Spanish Society of Epidemiology (SEE)": https://www.reunionanualsee.org/2022/     
+abstract: Aug 30 - Sep 2, Donostia
+authors:
+  - Arantxa Urdangarin
+  - Tomás Goicoa
+  - María Dolores Ugarte
+---
+
+
