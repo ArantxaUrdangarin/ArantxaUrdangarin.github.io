@@ -1,5 +1,5 @@
 ---
-title:          "Targeted lipidomic proling reveals a lipid mediator signature specic of acute-on chronic liver failure"
+title:          "Targeted lipidomic profiling reveals a lipid mediator signature specic of acute-on chronic liver failure"
 date:           2019-9-5 00:01:00 +0800
 selected:       false
 #pub:  
