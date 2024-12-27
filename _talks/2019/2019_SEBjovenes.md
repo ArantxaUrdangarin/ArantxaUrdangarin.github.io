@@ -1,15 +1,15 @@
 ---
-title:          "Assessing recent methods to alleviate confounding in spatial disease mapping"
-date:           2022-8-30 00:01:00 +0800
+title:          "Targeted lipidomic proling reveals a lipid mediator signature specic of acute-on chronic liver failure"
+date:           2019-9-5 00:01:00 +0800
 selected:       false
 #pub:  
 links:
-  "XL Annual Meeting of the Spanish Society of Epidemiology (SEE)": https://www.reunionanualsee.org/2022/     
-abstract: Aug 30 - Sep 2, Donostia
+  "IV Scientic Meeting for Young Researchers of the Spanish Society of Biometrics (SEB)": http://www.biometricsociety.net/iv-jseb/     
+abstract: Sep 5-6, Albacete
 authors:
   - Arantxa Urdangarin
-  - Tomás Goicoa
-  - María Dolores Ugarte
+  - Núria Planell
+  - David Gómez-Cabrero
 ---
 
 
