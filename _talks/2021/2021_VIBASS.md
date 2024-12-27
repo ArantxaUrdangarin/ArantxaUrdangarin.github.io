@@ -3,8 +3,7 @@ title:          "NIMBLE and INLA to fit spatio-temporal models for count data: a
 date:           2021-7-16 00:01:00 +0800
 selected:       false
 #pub:  
-links:
-"València International Bayesian Analysis Summer School (VIBASS4)": http://vabar.es/events/vibass4/  
+links:"València International Bayesian Analysis Summer School (VIBASS4)": http://vabar.es/events/vibass4/  
 abstract: Jul 12-16, València
 authors:
   - Arantxa Urdangarin
