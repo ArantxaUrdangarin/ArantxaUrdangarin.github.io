@@ -10,6 +10,7 @@ authors:
   - Arantxa Urdangarin
   - Núria Planell
   - David Gómez-Cabrero
+  - et al.
 ---
 
 
