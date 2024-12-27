@@ -1,5 +1,5 @@
 ---
-title:          "NIMBLE and INLA to fit spatio-temporal models for count data: a comparison study"
+title:          "NIMBLE and INLA to fit spatio-temporal models for count data: a comparison study"
 date:           2021-7-16 00:01:00 +0800
 selected:       false
 #pub:  
