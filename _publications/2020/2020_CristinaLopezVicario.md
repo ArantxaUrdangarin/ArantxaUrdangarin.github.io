@@ -1,5 +1,5 @@
 ---
-title:          "Targeted Lipidomics Reveals Extensive Changes in the Blood Lipid Mediator Prole in Acutely Decompensated Cirrhosis"
+title:          "Targeted Lipidomics Reveals Extensive Changes in the Blood Lipid Mediator Profile in Acutely Decompensated Cirrhosis"
 date:           2020-03-1 00:01:00 +0800
 selected:       false
 pub:            "Journal of Hepatology"
